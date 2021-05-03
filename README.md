@@ -127,6 +127,7 @@ Contributions are what make the open source community such an amazing place to b
 ## Contact
 
 Logicguy - [@Drillenissen#4268](https://www.discordapp.com) - logicguy.mailandcontact@gmail.com
+Also helped MrMarvel [S30] [MrMarvel [S30]#7777](https://www.discordapp.com)
 
 Project Link: [https://github.com/logicguy1/The-all-in-one-discord-tool](https://github.com/logicguy1/The-all-in-one-discord-tool)
 
